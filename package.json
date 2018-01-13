@@ -1,0 +1,28 @@
+{
+  "name": "disjoint-sets",
+  "version": "1.0.0",
+  "description": "disjoint set data structure for browsers and node.js",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.8.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incessantmeraki/disjoint-sets.git"
+  },
+  "keywords": [
+    "disjointset",
+    "data-structure",
+    "adt"
+  ],
+  "author": "Ashwin Kandel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/incessantmeraki/disjoint-sets/issues"
+  },
+  "homepage": "https://github.com/incessantmeraki/disjoint-sets#readme"
+}
