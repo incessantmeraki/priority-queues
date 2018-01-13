@@ -1,28 +1,27 @@
 {
-  "name": "disjoint-sets",
+  "name": "priority-queues",
   "version": "1.0.0",
-  "description": "disjoint set data structure for browsers and node.js",
+  "description": "priority queue(heap) data structure for node.js and browsers",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {
-    "tape": "^4.8.0"
-  },
   "scripts": {
     "test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/incessantmeraki/disjoint-sets.git"
+    "url": "git+https://github.com/incessantmeraki/priority-queues.git"
   },
   "keywords": [
-    "disjointset",
-    "data-structure",
+    "priority-queue",
+    "heap",
     "adt"
   ],
   "author": "Ashwin Kandel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/incessantmeraki/disjoint-sets/issues"
+    "url": "https://github.com/incessantmeraki/priority-queues/issues"
   },
-  "homepage": "https://github.com/incessantmeraki/disjoint-sets#readme"
+  "homepage": "https://github.com/incessantmeraki/priority-queues#readme",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
 }

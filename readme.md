@@ -1,8 +1,8 @@
 # priority-queues
 
-priority queue data structure using heap
-
 [![Build Status](https://travis-ci.org/incessantmeraki/priority-queues.svg?branch=master)](https://travis-ci.org/incessantmeraki/priority-queues)
+
+priority queue using heap data structure
 
 ## Usage
 
@@ -11,7 +11,7 @@ priority queue data structure using heap
 ```js
   var PQueue = require('priority-queues')
   
-  p = newPQueue()
+  p = new PQueue()
   
   // push elements into the queue
   p.push(4)
